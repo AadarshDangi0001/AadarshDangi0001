@@ -1,4 +1,6 @@
-[https://github.com/AadarshDangi0001/AadarshDangi0001/blob/main/Github%20banner%20Gif.jpg]
+[<p align="center">
+  <img src="https://raw.githubusercontent.com/AadarshDangi0001/AadarshDangi0001/main/Github%20banner%20Gif.jpg" alt="GitHub Banner" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Aadarsh Dangi</h1>
 <h3 align="center">A passionate full stack web & app developer from India</h3>
