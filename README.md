@@ -93,10 +93,7 @@
 
 ###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshdangi0001&show_icons=true&locale=en&layout=compact" alt="aadarshdangi0001" /></p>
 
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AadarshDangi0001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
