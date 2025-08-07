@@ -94,5 +94,20 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadarshdangi0001&show_icons=true&locale=en" alt="aadarshdangi0001" /></p>
 
+###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AadarshDangi0001&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AadarshDangi0001&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AadarshDangi0001/AadarshDangi0001/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AadarshDangi0001/AadarshDangi0001/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AadarshDangi0001/AadarshDangi0001/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
