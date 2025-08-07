@@ -88,10 +88,6 @@
   <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="threejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="60" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="60" alt="android logo"  />
 </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadarshdangi0001&show_icons=true&locale=en&layout=compact" alt="aadarshdangi0001" /></p>
