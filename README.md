@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Aadarsh Dangi</h1>
 <h3 align="center">A passionate full stack web & app developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966](https://imgs.search.brave.com/RPDUJW0JmY_9AqTVDy5ytJB9idRPdUkJEiKPs3HKBXI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhOVFJxTjNadWVH/bHhkRzF5YUdGdFpE/RnZNMnA2TVRkalpU/ZGtjelI0ZG5JNGVH/RXhkVE53TmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadarshdangi0001&label=Profile%20views&color=0e75b6&style=flat" alt="aadarshdangi0001" /> </p>
 
